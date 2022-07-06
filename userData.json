@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d868"
+  },
+  "clinician": "Woodlard,Shawn",
+  "week_01_weekday": 12,
+  "week_01_weekend": 3,
+  "week_02_weekend": 4,
+  "week_02_weekday": 16
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86a"
+  },
+  "clinician": "Vasquez, Erica",
+  "week_01_weekday": 2,
+  "week_01_weekend": 10,
+  "week_02_weekday": 6,
+  "week_02_weekend": 10
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86b"
+  },
+  "clinician": "Leza, Sasha",
+  "week_01_weekday": 5,
+  "week_01_weekend": 12,
+  "week_02_weekend": 18,
+  "week_02_weekday": 6
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86c"
+  },
+  "clinician": "Nelson, Crystal",
+  "week_01_weekday": 3,
+  "week_01_weekend": 10,
+  "week_02_weekend": 14,
+  "week_02_weekday": 13
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86d"
+  },
+  "clinician": "SANCHEZ,ESTHER",
+  "week_01_weekday": 2,
+  "week_01_weekend": 3,
+  "week_02_weekend": 10,
+  "week_02_weekday": 4
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86e"
+  },
+  "clinician": "MCCARTY,LYNNE",
+  "week_01_weekday": 4,
+  "week_01_weekend": 5,
+  "week_02_weekend": 18,
+  "week_02_weekday": 6
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d86f"
+  },
+  "clinician": "FOREY,DOUGLAS",
+  "week_01_weekday": 5,
+  "week_01_weekend": 6,
+  "week_02_weekend": 13,
+  "week_02_weekday": 7
+},{
+  "_id": {
+    "$oid": "62c45ae77194c4f7f0f3d870"
+  },
+  "clinician": "GUTIERREZ,EVANGELINE",
+  "week_01_weekday": 14,
+  "week_01_weekend": 6,
+  "week_02_weekend": 14,
+  "week_02_weekday": 4
+}]
