@@ -19,12 +19,9 @@ const userData = require("./routers/userData");
 app.use("/userData", userData);
 
 //database connect
-mongoose.connect(
-  "mongodb+srv://webPratyush:webPratyush123@cluster0.gzlma.mongodb.net/gleecusTable?retryWrites=true&w=majority",
-  () => {
-    console.log("Database connected");
-  }
-);
+mongoose.connect(process.env.MONGODB_URL, () => {
+  console.log("Database connected");
+});
 
 app.get("/", (req, res) => {
   res.end("Welcome To The API");
